@@ -1,0 +1,4 @@
+name	contigs_db_path
+amini	/home/barbara-lloydlab/Desktop/KBaseKatie/amini.metagenomes.annotated/2264867188.db
+148bin03	/home/barbara-lloydlab/Desktop/KBaseKatie/amini.metagenomes.annotated/PROKKA_02202018.db
+	
